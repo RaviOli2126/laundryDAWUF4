@@ -1,6 +1,7 @@
 # laundry management system
 # Hola me llamo Xavi ;)
 # Bueno, en realidad en e DNI pone Javier :(
+# Soy el admin Xavi
 ---
 ## Using Tech:
 
